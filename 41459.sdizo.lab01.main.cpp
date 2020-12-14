@@ -1,4 +1,4 @@
-﻿//SDIZO I1 212B LAB 01
+﻿//SDIZO LAB 01
 //Niez
 
 
